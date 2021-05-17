@@ -9,6 +9,7 @@
   View the live application [here](https://radiant-ridge-21056.herokuapp.com/).
 
   ## Table of Contents
+  * [Visuals](#Visuals)
   * [Installation](#Installation)
   * [Usage](#Usage)
   * [License](#License)
@@ -16,6 +17,9 @@
   * [Testing](#Testing)
   * [Questions](#Questions)
 
+  ## Visuals 
+  ![vis1](https://user-images.githubusercontent.com/75543740/118564506-6547ed00-b73e-11eb-8dc0-c12ad131d904.PNG)
+  
   ## Installation
   npm i
 
